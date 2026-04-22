@@ -1,4 +1,4 @@
-package movie.dome;
+package movie.demo;
 
 public class Movie {
     private int id;

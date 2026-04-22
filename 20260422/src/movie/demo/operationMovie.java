@@ -1,4 +1,4 @@
-package movie.dome;
+package movie.demo;
 
 import java.util.Scanner;
 
